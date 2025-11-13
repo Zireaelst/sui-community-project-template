@@ -1,5 +1,7 @@
 # Move Project Repo Template
 
+**✅ PROJECT COMPLETED - ALL TODO ITEMS IMPLEMENTED**
+
 This is a template for Workshop Students Project Submissions
 
 ## ⚠️ Important Notes
